@@ -1,6 +1,7 @@
 export default {
   title: "備忘録",
   description: "個人的な備忘録",
+  base: "/Knowledge/",
   themeConfig: {
     nav: [{ text: "ホーム", link: "/" }],
     sidebar: [
