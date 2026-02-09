@@ -6,6 +6,14 @@ export default {
     nav: [{ text: "ホーム", link: "/" }],
     sidebar: [
       {
+        text: "React",
+        items: [{ text: "React", link: "/react/" }],
+      },
+      {
+        text: "Atcoder",
+        items: [{ text: "Atcoder", link: "/atcoder/" }],
+      },
+      {
         text: "SEO",
         items: [{ text: "SEO勉強したこと", link: "/seo/" }],
       },
