@@ -14,9 +14,6 @@ hero:
       link: https://github.com
 
 features:
-  - title: SEO
-    details: SEO勉強したこと
-    link: /seo/
   - title: React
     details: Reactの備忘録
     link: /react/

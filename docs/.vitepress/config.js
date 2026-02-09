@@ -14,10 +14,6 @@ export default {
         items: [{ text: "Atcoder", link: "/atcoder/" }],
       },
       {
-        text: "SEO",
-        items: [{ text: "SEO勉強したこと", link: "/seo/" }],
-      },
-      {
         text: "メモ",
         items: [
           { text: "はじめに", link: "/notes/" },
